@@ -1,7 +1,8 @@
+User GitHub		Apellido y Nombre			E-Mail					Tipo y Nro Doc
 MaxiARG
 lunavi97
 cdgutierrez
 gsiles54
 Luis7485
 lunavi97
-NicoDelRio		<nicolas-delrio@hotmail.com>
+NicoDelRio		del Rio, Nicolas Ezequiel		<nicolas-delrio@hotmail.com>		DNI:32.478.117
